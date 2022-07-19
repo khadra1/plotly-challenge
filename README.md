@@ -17,8 +17,8 @@ Complete the following steps:
   * Use `otu_ids` as the labels for the bar chart.
 
   * Use `otu_labels` as the hovertext for the chart.
-
-  ![bar Chart](Images/hw01.png)
+  
+  ![hw01](https://user-images.githubusercontent.com/67019030/179767362-3c451081-beb7-4d32-838d-d2c7ee13fba2.png)
 
 3. Create a bubble chart that displays each sample.
 
@@ -32,17 +32,20 @@ Complete the following steps:
 
   * Use `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
+<img width="1416" alt="bubble_chart" src="https://user-images.githubusercontent.com/67019030/179767280-0d09290c-0030-4038-abe1-9b86da4bc15a.png">
+
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
+![hw03](https://user-images.githubusercontent.com/67019030/179767599-7bf6a283-d03d-4109-b99f-f02fd6164ed5.png)
+
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-![hw](Images/hw02.png)
+![hw02-2](https://user-images.githubusercontent.com/67019030/179767666-94d2650a-cd7b-4d06-bc56-af7311b90c2b.png)
+
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
@@ -55,8 +58,7 @@ The following task is advanced and therefore optional.
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
+<img width="384" alt="gauge" src="https://user-images.githubusercontent.com/67019030/179767824-eee41059-cc22-46ac-bd53-62eada20c35c.png">
 
 
 ## Hints
